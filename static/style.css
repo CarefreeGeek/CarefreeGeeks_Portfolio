@@ -280,12 +280,14 @@ body {
     }
     .btn-github {
       margin-top: 10px;
+      z-index: 1;
     }
     .cta span{
       text-decoration: none;
       padding-bottom: 0px;
       letter-spacing: 0px;
       font-size: 14px;
+      z-index: 1;
     }
   }
   
@@ -294,7 +296,9 @@ body {
       padding-bottom: 0px;
       letter-spacing: 0px;
       font-size: 14px;
+      z-index: 1;
     }
+    
   }
   
   
