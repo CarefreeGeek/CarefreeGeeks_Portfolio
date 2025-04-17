@@ -529,7 +529,8 @@ body {
   justify-content: center;
   text-align: center;
   gap: 10px;
-  background: linear-gradient(-45deg, #f89b29 0%, #ff0f7b 100% );
+  background: transparent;
+  backdrop-filter: blur(30px);
   color: #e8e8e8;
   padding: 20px;
   line-height: 1.5;
